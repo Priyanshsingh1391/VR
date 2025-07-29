@@ -1,6 +1,6 @@
 import './App.css'
-import Navbaar from './components/navbar'
-import HeroSection from './components/heroSection'
+import Navbaar from './components/Navbar'
+import HeroSection from './components/HeroSection'
 import FeatureSection from './components/FeatureSection'
 import Workflowsection from './components/Workflowsection'
 import Pricing from './components/Pricing'
